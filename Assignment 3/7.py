@@ -7,7 +7,6 @@ def acronym(phrase):
 
     return result
 
-
-# Nhập từ bàn phím
 user_phrase = input("Nhập một cụm từ: ")
 print("Acronym:", acronym(user_phrase))
+
